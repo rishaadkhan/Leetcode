@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
