@@ -19,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
@@ -30,6 +31,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishaadkhan/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -52,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
