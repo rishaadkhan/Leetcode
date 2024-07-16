@@ -15,12 +15,14 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
