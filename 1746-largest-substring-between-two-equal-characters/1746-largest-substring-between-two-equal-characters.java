@@ -2,17 +2,19 @@ class Solution {
     public int maxLengthBetweenEqualCharacters(String s) {
         int largestSub = -1, n = s.length();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (s.charAt(i) == s.charAt(j)) {
-                    int count = 0;
-                    for (int k = i + 1; k < j ; k++) {
-                        count++;
-                    }
-                    largestSub = Math.max(count, largestSub);
-                }
+        int[] frequencyMap = new int[26];
+        Arrays.fill(frequencyMap, -1);
+        for(int i =0 ; i < n; i++){
+            if(frequencyMap[s.charAt(i) - 'a'] >= 0){
+                largestSub = Math.max(
+                    largestSub,
+                    i - frequencyMap[s.charAt(i) - 'a'] - 1
+                    ); 
             }
+            else frequencyMap[s.charAt(i) - 'a'] = i;
         }
+
+       
         return largestSub;
     }
 }
