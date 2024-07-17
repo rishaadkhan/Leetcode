@@ -23,6 +23,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rishaadkhan/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rishaadkhan/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -84,9 +86,14 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
