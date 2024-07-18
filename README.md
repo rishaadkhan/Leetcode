@@ -20,6 +20,7 @@
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rishaadkhan/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -107,8 +108,10 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
