@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
@@ -104,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Bit Manipulation
@@ -129,10 +133,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -141,6 +147,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -154,4 +161,8 @@
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
