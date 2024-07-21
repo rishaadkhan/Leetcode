@@ -28,6 +28,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rishaadkhan/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
