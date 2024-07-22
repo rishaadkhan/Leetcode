@@ -18,7 +18,8 @@ class Solution {
         List<Integer> result = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
         TreeNode curr = root;
-        while(curr != null || !stack.isEmpty()){
+        stack.add(curr);
+        while(!stack.isEmpty()){
             if(curr != null){
                 result.add(curr.val);
                 stack.push(curr.right);
