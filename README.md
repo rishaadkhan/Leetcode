@@ -29,6 +29,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishaadkhan/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rishaadkhan/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rishaadkhan/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
 ## Depth-First Search
 |  |
 | ------- |
