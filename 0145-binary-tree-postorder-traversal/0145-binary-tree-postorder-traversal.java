@@ -15,12 +15,24 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
+        List<Integer> result = new LinkedList<>();
+        Stack<TreeNode> stack = new Stack<>();
         if(root == null) return result;
-        result.addAll(postorderTraversal(root.left));
-        result.addAll(postorderTraversal(root.right));
-        result.add(root.val);
+        TreeNode curr = root;
+        stack.push(curr);
+        while(!stack.isEmpty()){
+            curr = stack.pop();
+            result.addFirst(curr.val);
+            if(curr.left != null){
+                stack.push(curr.left);
+            }
+            if(curr.right != null){
+                stack.push(curr.right);
+            }
+
+        }
         return result;
+
 
     }
 }
