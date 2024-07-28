@@ -206,6 +206,7 @@
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/rishaadkhan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rishaadkhan/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -217,4 +218,9 @@
 | [0100-same-tree](https://github.com/rishaadkhan/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishaadkhan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/rishaadkhan/Leetcode/tree/master/0226-invert-binary-tree) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/rishaadkhan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/rishaadkhan/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
