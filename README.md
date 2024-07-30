@@ -119,12 +119,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rishaadkhan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishaadkhan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rishaadkhan/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
 | ------- |
