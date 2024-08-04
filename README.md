@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/rishaadkhan/Leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rishaadkhan/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Array
 |  |
@@ -27,6 +28,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rishaadkhan/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rishaadkhan/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rishaadkhan/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rishaadkhan/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -62,6 +64,7 @@
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rishaadkhan/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rishaadkhan/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rishaadkhan/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rishaadkhan/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
@@ -117,6 +120,7 @@
 | [0234-palindrome-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
 | ------- |
