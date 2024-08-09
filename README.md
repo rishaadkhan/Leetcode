@@ -7,6 +7,7 @@
 | [0069-sqrtx](https://github.com/rishaadkhan/Leetcode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
+| [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rishaadkhan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -50,6 +52,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
+| [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rishaadkhan/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rishaadkhan/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rishaadkhan/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -186,6 +189,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rishaadkhan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rishaadkhan/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
