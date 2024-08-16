@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0624-maximum-distance-in-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rishaadkhan/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -240,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/rishaadkhan/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Quickselect
