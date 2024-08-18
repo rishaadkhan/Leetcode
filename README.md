@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishaadkhan/Leetcode/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/rishaadkhan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -219,6 +221,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rishaadkhan/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
@@ -274,6 +277,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
