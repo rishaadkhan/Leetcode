@@ -8,6 +8,7 @@
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
 |  |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
