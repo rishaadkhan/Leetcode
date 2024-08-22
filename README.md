@@ -161,6 +161,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0664-strange-printer](https://github.com/rishaadkhan/Leetcode/tree/master/0664-strange-printer) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/rishaadkhan/Leetcode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
