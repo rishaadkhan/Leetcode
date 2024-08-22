@@ -193,6 +193,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/rishaadkhan/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
