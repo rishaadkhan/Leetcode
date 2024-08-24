@@ -8,6 +8,7 @@
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0564-find-the-closest-palindrome](https://github.com/rishaadkhan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0564-find-the-closest-palindrome](https://github.com/rishaadkhan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/rishaadkhan/Leetcode/tree/master/0664-strange-printer) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
