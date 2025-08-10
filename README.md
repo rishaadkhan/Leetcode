@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishaadkhan/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/rishaadkhan/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/rishaadkhan/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rishaadkhan/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rishaadkhan/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/rishaadkhan/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Tree
@@ -196,6 +198,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rishaadkhan/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/rishaadkhan/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rishaadkhan/Leetcode/tree/master/0645-set-mismatch) |
 ## Queue
