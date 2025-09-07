@@ -13,6 +13,7 @@
 | [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishaadkhan/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/rishaadkhan/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rishaadkhan/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishaadkhan/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rishaadkhan/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rishaadkhan/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
