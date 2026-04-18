@@ -55,6 +55,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rishaadkhan/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rishaadkhan/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/rishaadkhan/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rishaadkhan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rishaadkhan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/rishaadkhan/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
