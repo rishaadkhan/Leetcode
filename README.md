@@ -174,6 +174,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/rishaadkhan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/rishaadkhan/Leetcode/tree/master/0664-strange-printer) |
+| [0796-rotate-string](https://github.com/rishaadkhan/Leetcode/tree/master/0796-rotate-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rishaadkhan/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -345,4 +346,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rishaadkhan/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
