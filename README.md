@@ -160,6 +160,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rishaadkhan/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/rishaadkhan/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishaadkhan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rishaadkhan/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rishaadkhan/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/rishaadkhan/Leetcode/tree/master/2502-sort-the-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishaadkhan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/rishaadkhan/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishaadkhan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishaadkhan/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rishaadkhan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishaadkhan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
