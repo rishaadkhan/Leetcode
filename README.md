@@ -12,6 +12,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/rishaadkhan/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rishaadkhan/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishaadkhan/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
@@ -41,6 +42,7 @@
 | [0921-spiral-matrix-iii](https://github.com/rishaadkhan/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/rishaadkhan/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rishaadkhan/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
@@ -301,6 +303,7 @@
 | [0264-ugly-number-ii](https://github.com/rishaadkhan/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/rishaadkhan/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rishaadkhan/Leetcode/tree/master/0664-strange-printer) |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/rishaadkhan/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/rishaadkhan/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -341,13 +344,23 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/rishaadkhan/Leetcode/tree/master/0796-rotate-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
