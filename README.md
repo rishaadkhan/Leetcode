@@ -15,6 +15,7 @@
 | [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishaadkhan/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/rishaadkhan/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rishaadkhan/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/rishaadkhan/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/rishaadkhan/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rishaadkhan/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -208,6 +210,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rishaadkhan/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishaadkhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishaadkhan/Leetcode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rishaadkhan/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -273,6 +276,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/rishaadkhan/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/rishaadkhan/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rishaadkhan/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishaadkhan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quickselect
 |  |
@@ -355,6 +359,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1240-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -363,8 +368,14 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rishaadkhan/Leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rishaadkhan/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
